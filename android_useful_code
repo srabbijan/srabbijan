@@ -1,0 +1,12 @@
+
+//SHARE METHOD
+fun share(txt:String) {
+   val sendIntent = Intent(Intent.Action_SEND).
+    apply{
+        putExtra(Intent.EXTRA_TEXT,txt)
+        type = "text/plain"
+    }
+    val shareIntent = Intent.createChooser(
+    sendIntent,null)
+    startActivity(shareIntent)
+}
