@@ -11,3 +11,9 @@
 - 💼 Freelancer on Upwork and Fiverr.
 <hr>
 
+<hr>
+
+### 💻 Languages and Tools
+
+![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,arduino,figma,idea,vscode,stackoverflow,git,github,postman,firebase,mongodb,supabase&perline=18)
+<hr>
