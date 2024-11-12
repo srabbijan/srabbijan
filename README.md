@@ -13,5 +13,25 @@
 
 ### 💻 Languages and Tools
 
-![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,figma,idea,vscode,stackoverflow,git,github,postman,firebase,mongodb,supabase&perline=18)
+![trophy](https://skillicons.dev/icons?i=androidstudio,idea,kotlin,java,firebase,MongoDB,gradle,figma,vscode,spring,git,github,gitlab,postman,stackoverflow&perline=18)
+<hr>
+
+## 🌐 Socials:
+[![DM Me For Freelancing Project](https://img.shields.io/badge/DM_Me_For_Freelancing_Project-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Meetb26) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srabbijan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srabbijan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srabbijan) 
+
+<hr>
+
+### :zap: Stackoverflow Stats ❤️ 
+
+[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=13082664)](https://stackoverflow.com/users/10624174/md-fazle-rabby)
+
+<hr>
+
+## :zap: Why Choose Coding Fazle?
+
+- Step-by-step guides for Android app development
+- In-depth explanations to understand the concepts thoroughly
+- Regular updates with the latest trends in the Android world
+- Join our passionate community of developers and learn together
 <hr>
