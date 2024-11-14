@@ -7,10 +7,15 @@
 Skills: Android / Kotlin / Java / Kotlin Multiplatform / Jetpack Compose / MVVM / Web Services (REST) / Bug Fixing / Unit Testing.
 <br />
 - 👨‍💻 Software Engineer.
+<br />
 - 🌱 I'm an early adopter Compose Multiplatform Tech.
+<br />
 - 🚀 Passionate about exploring and applying new technologies.
+<br />
 - 📖 Believer in continuous learning.
+<br />
 - 🛠️ Enthusiast for a variety of projects.
+<br />
 - 💼 Freelancer on Upwork and Fiverr.
 <hr>
 
