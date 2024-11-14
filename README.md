@@ -5,6 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <!-- <img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"> -->
 Skills: Android / Kotlin / Java / Kotlin Multiplatform / Jetpack Compose / MVVM / Web Services (REST) / Bug Fixing / Unit Testing.
+<br />
 - 👨‍💻 Software Engineer.
 - 🌱 I'm an early adopter Compose Multiplatform Tech.
 - 🚀 Passionate about exploring and applying new technologies.
@@ -23,9 +24,17 @@ Skills: Android / Kotlin / Java / Kotlin Multiplatform / Jetpack Compose / MVVM 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srabbijan) 
 
 <hr>
-<a href="https://github.com/srabbijan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabbijan&theme=light&hide_langs_below=1" />
-</a>
+<table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=srabbijan&show_icons=true&locale=en" alt="Andrea Liu" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabbijan&theme=light&hide_langs_below=1" />
+    </td>
+   </tr>
+</table>
+
 
 ### :zap: Stackoverflow Stats ❤️ 
 
