@@ -26,51 +26,46 @@ Skills: Android / Kotlin / Java / Kotlin Multiplatform / Jetpack Compose / MVVM 
 
 ### 🏆 Achievements
 📱✨ App Size Reduced by 50% 
+<hr>
 ![image](https://github.com/user-attachments/assets/74dad95d-0d03-4e52-b889-1d2cf28e3678)
 
 ### 🚀 Experience
 🛠️ Hishabee Technologies Limited
+<br />
 ⏳ 2023, July - Present
+<br />
 📍 SR ANDROID DEVELOPER(KOTLIN)
+<br />
 • SaaS | Dealership Business Solution
-
+<hr>
 🛠️ Red Dot Digital (Contractually)
+<br />
 ⏳ 2023, Jan - 2023, Jun (6 M)
+<br />
 📍 MID ANDROID DEVELOPER(KOTLIN)
+<br />
 • Feature implementation | Fixed bugs
-
+<hr>
 🛠️ SOFTIC
+<br />
 ⏳ 2022, Oct - 2022, Dec (3 M)
+<br />
 📍 FLUTTER DEVELOPER
-
+<hr>
 🛠️ EPS - Easy Payment System
+<br />
 ⏳ 2021, Nov - 2022, Sept (1 Y)
+<br />
 📍 JR ANDROID DEVELOPER(KOTLIN)
+<br />
 • FinTech | ERP | Payment Gateway
+<hr>
 
 ## 🌐 Connect With Me:
-[![DM Me For Freelancing Project](https://img.shields.io/badge/DM_Me_For_Freelancing_Project-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/srabbijan) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srabbijan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srabbijan)
+[![DM Me For Freelancing Project](https://img.shields.io/badge/Email-24A1DE?style=for-the-badge&logo=gmail)](mailto:srabbijan@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srabbijan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srabbijan)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srabbijan) 
 
 <hr>
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=srabbijan&show_icons=true&locale=en" alt="Andrea Liu" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabbijan&theme=light&hide_langs_below=1" />
-    </td>
-   </tr>
-</table>
-
-
-### :zap: Stackoverflow Stats ❤️ 
-
-[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=10624174)](https://stackoverflow.com/users/10624174/md-fazle-rabby)
-
-<hr>
-
 ## :zap: Why Choose Coding Fazle?
 
 - Step-by-step guides for Android app development
