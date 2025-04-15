@@ -1,5 +1,5 @@
 <!--# আস-সালামু 'আলাইকুম, I'm Fazle Rabbi!-->
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Rubik+Mono+One&size=43&pause=1000&color=03FA6EFF&center=true&vCenter=true&repeat=false&random=false&width=1024&height=100&lines=%E0%A6%86%E0%A6%B8-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%81%20%E0%A6%86%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%81%E0%A6%AE%2C+I%27m+Fazle!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Rubik+Mono+One&size=38&pause=1000&color=03FA6EFF&center=true&vCenter=true&repeat=false&random=false&width=1024&height=100&lines=%E0%A6%86%E0%A6%B8-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%81%20%E0%A6%86%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%81%E0%A6%AE%2C+I%27m+Fazle%20Rabbi!)
 <hr>
 <h3 align="center">Mobile Application Developer | Native Android | Kotlin Multiplatform | Flutter</h3>
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
@@ -23,6 +23,30 @@ Skills: Android / Kotlin / Java / Kotlin Multiplatform / Jetpack Compose / MVVM 
 
 ![trophy](https://skillicons.dev/icons?i=androidstudio,idea,kotlin,java,firebase,mongodb,gradle,figma,vscode,spring,git,github,gitlab,postman,stackoverflow&perline=18)
 <hr>
+
+### 🏆 Achievements
+📱✨ App Size Reduced by 50% 
+![image](https://github.com/user-attachments/assets/74dad95d-0d03-4e52-b889-1d2cf28e3678)
+
+### 🚀 Experience
+🛠️ Hishabee Technologies Limited
+⏳ 2023, July - Present
+📍 SR ANDROID DEVELOPER(KOTLIN)
+• SaaS | Dealership Business Solution
+
+🛠️ Red Dot Digital (Contractually)
+⏳ 2023, Jan - 2023, Jun (6 M)
+📍 MID ANDROID DEVELOPER(KOTLIN)
+• Feature implementation | Fixed bugs
+
+🛠️ SOFTIC
+⏳ 2022, Oct - 2022, Dec (3 M)
+📍 FLUTTER DEVELOPER
+
+🛠️ EPS - Easy Payment System
+⏳ 2021, Nov - 2022, Sept (1 Y)
+📍 JR ANDROID DEVELOPER(KOTLIN)
+• FinTech | ERP | Payment Gateway
 
 ## 🌐 Connect With Me:
 [![DM Me For Freelancing Project](https://img.shields.io/badge/DM_Me_For_Freelancing_Project-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/srabbijan) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srabbijan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srabbijan)
