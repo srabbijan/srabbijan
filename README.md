@@ -18,7 +18,7 @@ Skills: Android / Kotlin / Java / Kotlin Multiplatform / Jetpack Compose / MVVM 
 <br />
 - 💼 Freelancer on Upwork and Fiverr.
 <hr>
-
+![](https://komarev.com/ghpvc/?username=srabbijan&color=brightgreen&style=flat)
 ### 💻 Languages and Tools
 
 ![trophy](https://skillicons.dev/icons?i=androidstudio,idea,kotlin,java,firebase,mongodb,gradle,figma,vscode,spring,git,github,gitlab,postman,stackoverflow&perline=18)
